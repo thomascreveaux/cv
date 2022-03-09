@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/thomascreveaux/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thomascreveaux/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Thomas Creveaux
+_Fullstack developer, Lyon, France_
+## Skills
+### Languages & tools
+Javascript / GraphQL / SQL & PostgreSQL
+### Server
+Node JS, Express
+### Web
+React, Next, Gatsby, Remix, Material UI
+### Mobile
+React-native (iOS & Android), NativeBase
+### Cloud
+AWS, Firebase, Render, Redash
+### Tools
+Redux / Sentry
+## Software development experience
+### ido-data (2018-2022)
+- Technical director
+- Fullstack developer (web, cloud, mobile) of "real-time" applications for
+  - safety: DIAL (https://dial.snsm.org)
+  - education: Serious Games Builder (https://www.seriousgamesbuilder.fr)
+  - commerce: Herve.shop (https://www.herve.shop)
+  - health: Suricate (https://www.mypharmaciebox.com/gestion-automatisee/pharmabox.pdf)
+  - horse training and monitoring (https://play.google.com/store/apps/details?id=com.ekily)
+### Pulsalys (2014-2015)
+- Innovation Engineering (development of patented software for motion analysis: https://patents.google.com/patent/FR3016721A1)
+  - Matlab
+  - C
+### Université Claude Bernard Lyon 1 (2011-2015)
+- "ACE" ANR (https://anr.fr/Projet-ANR-10-BLAN-0901) and "MEEGAPERF" RAPID-DGA  (https://www.forcesoperations.com/mesurer-lalteration-de-la-performance/) projects
+  - real time data recording
+  - filtering, outliers identification (Matlab)
+  -  statistics (R, SPSS, Matlab)
+## Education
+- 2012 - Interuniversity Diploma "FIEC" (Training of investigators in clinical drug trials: http://offre-de-formations.univ-lyon1.fr/parcours-627/formation-des-investigateurs-aux-essais-cliniques-des-medicaments-(fiec).html)
+- 2009 - Phd in Sport Sciences (Biomechanics): From experimental data to the modeling of a dynamic movement: case of the vertical jump
+- 2004 - Master Degree: Sport and performance (biomechanics and control of human movement option)
+- 2002 - Bachelor's degree in sport sciences (sports training option)
+- 2001 - Bachelor's degree in sport sciences (education option)
+- 1998 - High-school degree
