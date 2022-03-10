@@ -1,4 +1,6 @@
+
 # Thomas Creveaux [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-creveaux)
+Co-Founder & CTO @ [![ido-data](https://weweb-v3.twic.pics/prod/designs/193d5b20-687f-4b9a-bef5-afc75bec652c/sections/ido-data-logo-couleurs-WEB.png?v=1635760886869&twic=v1/quality=90/resize=100)](https://www.ido-data.fr/)
 ## Skills
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-fff?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=blue)
