@@ -19,12 +19,12 @@ Sentry
 ## Software development experience
 ### ido-data (2018-2022)
 - Technical director
-- Fullstack developer (web, cloud, mobile) of "real-time" applications for
-  - safety: DIAL (https://dial.snsm.org)
-  - education: Serious Games Builder (https://www.seriousgamesbuilder.fr)
-  - commerce: Herve.shop (https://www.herve.shop)
-  - health: Suricate (https://www.mypharmaciebox.com/gestion-automatisee/pharmabox.pdf)
-  - horse training and monitoring (https://play.google.com/store/apps/details?id=com.ekily)
+- Fullstack developer (web, cloud, mobile) for
+  - [DIAL](https://dial.snsm.org): the GPS wristband saving lives
+  - [Serious Games Builder](https://www.seriousgamesbuilder.fr): mobile application and backend to build entertaining educational games
+  - [Herve.shop](https://www.herve.shop): visioshoping web service
+  - [Suricate](https://www.mypharmaciebox.com/gestion-automatisee/pharmabox.pdf): connected pharmacy box
+  - [Ekily](https://play.google.com/store/apps/details?id=com.ekily): horse training and health monitoring mobile application
 
 ### Pulsalys (2014-2015)
 - Innovation Engineering (development of [patented software for motion analysis](https://patents.google.com/patent/FR3016721A1))
