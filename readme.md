@@ -27,18 +27,18 @@ Sentry
   - horse training and monitoring (https://play.google.com/store/apps/details?id=com.ekily)
 
 ### Pulsalys (2014-2015)
-- Innovation Engineering (development of patented software for motion analysis: https://patents.google.com/patent/FR3016721A1)
+- Innovation Engineering (development of [patented software for motion analysis](https://patents.google.com/patent/FR3016721A1))
   - Matlab
   - C
 
 ### Université Claude Bernard Lyon 1 (2011-2015)
-- "ACE" ANR (https://anr.fr/Projet-ANR-10-BLAN-0901) and "MEEGAPERF" RAPID-DGA  (https://www.forcesoperations.com/mesurer-lalteration-de-la-performance/) projects
+- ["ACE" ANR](https://anr.fr/Projet-ANR-10-BLAN-0901) and ["MEEGAPERF" RAPID-DGA](https://www.forcesoperations.com/mesurer-lalteration-de-la-performance/) projects
   - real time data recording
   - filtering, outliers identification (Matlab)
   -  statistics (R, SPSS, Matlab)
 
 ## Education
-- 2012 - Interuniversity Diploma "FIEC" (Training of investigators in clinical drug trials: http://offre-de-formations.univ-lyon1.fr/parcours-627/formation-des-investigateurs-aux-essais-cliniques-des-medicaments-(fiec).html)
+- 2012 - [Interuniversity Diploma "FIEC"](http://offre-de-formations.univ-lyon1.fr/parcours-627/formation-des-investigateurs-aux-essais-cliniques-des-medicaments-%28fiec%29.html) (Training of investigators in clinical drug trials)
 - 2009 - Phd in Sport Sciences (Biomechanics): From experimental data to the modeling of a dynamic movement: case of the vertical jump
 - 2004 - Master Degree: Sport and performance (biomechanics and control of human movement option)
 - 2002 - Bachelor's degree in sport sciences (sports training option)
